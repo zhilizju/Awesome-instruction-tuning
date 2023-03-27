@@ -4,22 +4,20 @@ A curated list of open-source instruction tuning datasets, models and papers.
 
 |Release| Datasets|  Number of Tasks | Number of Instances | Model_name | Base | Model_Size| 
 |  ----  | ----  | ----  | ----  | ----  | ----  | ----  | 
-| 202005 | UnifiedQA |46 | 750k | UnifiedQA | RoBerta | 110-340 M |
-| 202104 | CrossFit |159 | 71.M | BART-CrossFit | BART | 140 M |
-| 202104 | Natural Inst v1.0 |61 | 620 k | Gen. BART | BART |140 M |
-| 202109 | Flan 2021 |62 | 4.4M | Flan-LaMDA | LaMDA | 137B |
-| 202110 | P3 | 62 | 12M |TO, TO+, TO++ | T5-LM| 3-11B | 
-| 202110 | MetalCL |142 | 3.5M |MetalCL | GPT-2 | 770 M |
-| 202111 | ExMix | 107 | 500 k | ExT5 | T5 | 220M-11B |  
-| 202204 | [Super-Natural Inst.](https://github.com/allenai/natural-instructions) |1613 | 5M | Tk-Instruct | T5-LM, mT5 | 17-13B |
-| 202210 | GLM | 77 | 12M | GLM-130B | GLM | 130 B |
-| 202111 | ExMix |107 | 500 k | ExT5 | T5 | 220M-11B |
-| 202204 | Super-Natural Inst. |1613 | 5M |Tk-Instruct | T5-LM, mT5 | 17-13B |
-| 202210 | GLM | 77 | 12M | GLM-130B | GLM | 130 B | 
-| 202211 | xP3 | 71 | 81M | BLOOMz, mTO | BLOOM, mT5 | 13-176B |
-| 202212 | Unnatural Inst. | 117 | 64 k | T5-LM-Unnat. Inst. | T5-LM | 11B |
-| 202212 | OPT-IML Bench|2207 | 18M | OPT-IML | OPT | 30-175B |
-| 202210 | Flan 2022 |1836 | 15M | Flan-T5, Flan-PaLM | T5-LM, PaLM | 10 M-540 B |
+| 2020-05 | UnifiedQA |46 | 750k | UnifiedQA | RoBerta | 110-340 M |
+| 2021-04 | CrossFit |159 | 71.M | BART-CrossFit | BART | 140 M |
+| 2021-04 | Natural Inst v1.0 |61 | 620 k | Gen. BART | BART |140 M |
+| 2021-09 | Flan 2021 |62 | 4.4M | Flan-LaMDA | LaMDA | 137B |
+| 2021-10 | P3 | 62 | 12M |TO, TO+, TO++ | T5-LM| 3-11B | 
+| 2021-10 | MetalCL |142 | 3.5M |MetalCL | GPT-2 | 770 M |
+| 2021-11 | ExMix | 107 | 500 k | ExT5 | T5 | 220M-11B |  
+| 2022-04 | [Super-Natural Inst.](https://github.com/allenai/natural-instructions) |1613 | 5M | Tk-Instruct | T5-LM, mT5 | 17-13B |
+| 2022-10 | GLM | 77 | 12M | GLM-130B | GLM | 130 B |
+| 2022-10 | Flan 2022 |1836 | 15M | Flan-T5, Flan-PaLM | T5-LM, PaLM | 10 M-540 B |
+| 2022-11 | xP3 | 71 | 81M | BLOOMz, mTO | BLOOM, mT5 | 13-176B |
+| 2022-12 | Unnatural Inst. | 117 | 64 k | T5-LM-Unnat. Inst. | T5-LM | 11B |
+| 2022-12 | OPT-IML Bench|2207 | 18M | OPT-IML | OPT | 30-175B |
+
 
 
 
