@@ -1,5 +1,6 @@
 # Awesome-instruction-tuning
-A curated list of open-source instruction tuning datasets, models and papers.
+A curated list of open-source instruction tuning datasets, models, papers, repositories.
+
 ## Datasets and Models
 
 ### Modified from Traditional NLP 
@@ -31,10 +32,10 @@ Following [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list all ex
 | 2022-03-19|[alpaca-lora](https://github.com/tloen/alpaca-lora/commits/main)  | | | | | |
 | 2022-03-25|[dolly](https://github.com/databrickslabs/dolly)|  | | | | | |
 | 2022-03-25|[guanaco](https://huggingface.co/KBlueLeaf/guanaco-7B-leh)| | |[GuanacoDataset](https://huggingface.co/datasets/JosephusCheung/GuanacoDataset)| | |
-｜2022-03-29｜[ColossalChat](https://github.com/hpcaitech/ColossalAI)| | | | |  | 
+|2022-03-29|[ColossalChat](https://github.com/hpcaitech/ColossalAI)| | | | |  | 
 
 ### Multilingual tools
-Most existing datasets are in English. However, most of the world’s population is under-served in terms of availability of data for their languages. How to ensure that everyone across the world is able to benefit from generative AI ? We have developed a straightforward and open-source translation tool based on Helsinki-NLP, capable of translating English datasets into 100+ languages at no cost. Although these translated datasets may contain some noise, they serve as a viable alternative to costly, high-quality data. See code
+Most existing datasets are in English. However, most of the world’s population is under-served in terms of availability of data for their languages. How to ensure that everyone across the world is able to benefit from generative AI ? We have developed a straightforward and open-source translation tool based on Helsinki-NLP, capable of translating English datasets into 100+ languages at no cost. Although these translated datasets may contain some noise, they serve as a viable alternative to costly, high-quality data. See code.
 
 
 ## Papers
@@ -68,3 +69,28 @@ We have extensively reviewed papers in this field and have listed the most valua
 [**The Flan Collection: Designing Data and Methods for Effective Instruction Tuning**](https://arxiv.org/abs/2301.13688) 2023.1
 
 [**In-Context Instruction Learning**](https://arxiv.org/abs/2302.14691) 2023.2
+
+
+## Repositories
+### Instruction
+[awesome-instruction-learning](https://github.com/RenzeLou/awesome-instruction-learning)
+
+[awesome-instruction-dataset](https://github.com/yaodongC/awesome-instruction-dataset)
+
+
+### ICL
+[ICL_PaperList](https://github.com/dqxiu/ICL_PaperList)
+
+[prompt-in-context-learning](https://github.com/EgoAlpha/prompt-in-context-learning)
+
+### Reason
+[LM-reasoning](https://github.com/jeffhj/LM-reasoning)
+
+[LLM-Reasoning-Papers](https://github.com/atfortes/LLM-Reasoning-Papers)
+
+[Chain-of-ThoughtsPapers](https://github.com/Timothyxxx/Chain-of-ThoughtsPapers)
+
+
+### Framework
+[OpenICL](https://github.com/Shark-NLP/OpenICL)
+
