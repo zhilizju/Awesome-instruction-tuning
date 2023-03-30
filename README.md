@@ -31,8 +31,10 @@ Following [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list all ex
 | 2022-03-19|[alpaca-lora](https://github.com/tloen/alpaca-lora/commits/main)  | | | | | |
 | 2022-03-25|[dolly](https://github.com/databrickslabs/dolly)|  | | | | | |
 | 2022-03-25|[guanaco](https://huggingface.co/KBlueLeaf/guanaco-7B-leh)| | |[GuanacoDataset](https://huggingface.co/datasets/JosephusCheung/GuanacoDataset)| | |
+｜2022-03-29｜[ColossalChat](https://github.com/hpcaitech/ColossalAI)| | | | |  | 
 
-### 
+### Multilingual tools
+Most existing datasets are in English. However, most of the world’s population is under-served in terms of availability of data for their languages. How to ensure that everyone across the world is able to benefit from generative AI ? We have developed a straightforward and open-source translation tool based on Helsinki-NLP, capable of translating English datasets into 100+ languages at no cost. Although these translated datasets may contain some noise, they serve as a viable alternative to costly, high-quality data. See code
 
 
 ## Papers
