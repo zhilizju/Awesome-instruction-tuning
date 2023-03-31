@@ -36,7 +36,14 @@ Following [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list all ex
 
 ### Multilingual tools
 Most existing datasets are in English. However, most of the world’s population is under-served in terms of availability of data for their languages. How to ensure that everyone across the world is able to benefit from generative AI ? We have developed a straightforward and open-source translation tool based on Helsinki-NLP, capable of translating English datasets into 100+ languages at no cost. Although these translated datasets may contain some noise, they serve as a viable alternative to costly, high-quality data. See code.
-
+#### use of translator.py:
+````
+python  translator.py  model_name  source_data_path
+````
+#### example:
+````
+python  translator.py  Helsinki-NLP/opus-mt-en-zh  alpaca_data.json
+````
 
 ## Papers
 
