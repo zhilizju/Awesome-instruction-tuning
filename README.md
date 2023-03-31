@@ -29,7 +29,7 @@ Following [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list all ex
 |  ----  | ----  | ----  | ----  | ----  | ----  | ----  | 
 | 2022-12 | GPT-3 Self Inst. | GPT-3 | 175B | Self-Instruct | 82 k |En | 
 | 2023-03-03|[alpaca](https://github.com/tatsu-lab/stanford_alpaca)| LLaMA | 7B |[alpaca_data](https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json)| 52 k | En | 
-| 2023-03-19|[alpaca-lora](https://github.com/tloen/alpaca-lora/commits/main)  | LLaMA | 7B 13B 30B|[alpaca_data](https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json) |52 k | En|
+| 2023-03-19|[alpaca-lora](https://github.com/tloen/alpaca-lora/commits/main)  | LLaMA | 7B 13B 30B|[alpaca_data](https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json)、[alpaca_data_cleaned](https://github.com/tloen/alpaca-lora/blob/main/alpaca_data_cleaned.json) |52 k | En|
 | 2023-03-25|[dolly](https://github.com/databrickslabs/dolly)| dolly | 6B |[alpaca_data](https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json)| 52 k|En |
 | 2023-03-25|[guanaco](https://huggingface.co/KBlueLeaf/guanaco-7B-leh)| LLaMA | 7B |[GuanacoDataset](https://huggingface.co/datasets/JosephusCheung/GuanacoDataset)| 534 k | En Zh Ja De|
 |2023-03-29|[ColossalChat](https://github.com/hpcaitech/ColossalAI)| LLaMA |7B 13B |[InstructionWild](https://github.com/XueFuzhao/InstructionWild) |104 k |En Zh  | 
