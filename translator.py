@@ -30,7 +30,7 @@ with open(source_data_path) as f:
 
 
 translated_data=[]
-for dic in tqdm(source_data[:10]):
+for dic in tqdm(source_data):
     temp={}
     for key,value in dic.items():
         if(len(value)==0):    
