@@ -33,6 +33,7 @@ Following [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list all ex
 | 2023-03-25|[dolly](https://github.com/databrickslabs/dolly)| dolly | 6B |[alpaca_data](https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json)| 52 k|En |
 | 2023-03-25|[guanaco](https://huggingface.co/KBlueLeaf/guanaco-7B-leh)| LLaMA | 7B |[GuanacoDataset](https://huggingface.co/datasets/JosephusCheung/GuanacoDataset)| 534 k | En Zh Ja De|
 |2023-03-29|[ColossalChat](https://github.com/hpcaitech/ColossalAI)| LLaMA |7B 13B |[InstructionWild](https://github.com/XueFuzhao/InstructionWild) |104 k |En Zh  | 
+| 2023-03-31| [Luotuo](https://github.com/LC1332/Luotuo-Chinese-LLM) | LLaMA ChatGLM  | 7B 6B  | [trans_chinese_alpaca_data](https://github.com/LC1332/Chinese-alpaca-lora/blob/main/data/trans_chinese_alpaca_data.json)  | 52k  | Zh  | 
 
 ### Multilingual tools
 Most existing datasets are in English. However, most of the world’s population is under-served in terms of availability of data for their languages. How to ensure that everyone across the world is able to benefit from generative AI ? We have developed a straightforward and open-source translation tool based on Helsinki-NLP, capable of translating English datasets into 100+ languages at no cost. Although these translated datasets may contain some noise, they serve as a viable alternative to costly, high-quality data. See below.
