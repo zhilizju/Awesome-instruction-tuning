@@ -20,6 +20,7 @@ Following [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list all ex
 | 2022-10 | [Flan 2022](https://github.com/google-research/FLAN/tree/main/flan/v2) |1836 | 15M | Flan-T5, Flan-PaLM | T5-LM, PaLM | 10 M-540 B |
 | 2022-11 | [xP3](https://huggingface.co/datasets/bigscience/xP3) | 71 | 81M | BLOOMz, mTO | BLOOM, mT5 | 13-176B |
 | 2022-12 | [Unnatural Inst.](https://github.com/orhonovich/unnatural-instructions) | 117 | 64 k | T5-LM-Unnat. Inst. | T5-LM | 11B |
+| 2023-06 | [tasksource-instruct](https://github.com/sileod/tasksource) |475 | 4.58 | - | - | - |
 
 
 
